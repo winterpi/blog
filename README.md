@@ -5,4 +5,5 @@
 - 简书上连续几次的文章被锁定，现在选择换个地方
 
 ## 现在的文章
-[何为稳定币](https://github.com/winterpi/blog/issues/1)
+- [何为稳定币](https://github.com/winterpi/blog/issues/1)
+- [Hyperledger Fabric 智能合约开发利器](https://github.com/winterpi/blog/issues/2)
