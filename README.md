@@ -11,7 +11,8 @@
 - [国密算法](https://github.com/winterpi/blog/issues/4)
 - [签名与验签：盲签名、群签名、环签名](https://github.com/winterpi/blog/issues/6)
 - [Pedersen Commitment (佩德森承诺)](https://github.com/winterpi/blog/issues/7)
-
+- [基于Paillier的加法同态](https://github.com/winterpi/blog/issues/5)
+- [可信计算平台的远程证明 RA](https://github.com/winterpi/blog/issues/8)
 
 ## 参与翻译的 Hyperledger 文章
 - [Hyperledger Firefly 1.0 介绍：企业级Web3 应用的超级节点](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487060&idx=2&sn=4ae81242358c8b415bc6912ef8be770c&chksm=ce233009f954b91ffc4fbde650a797bcfc19b0a1de7dbeaf4f42208650f39b1b39623e548ef4&token=997924595&lang=zh_CN#rd)
