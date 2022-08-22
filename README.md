@@ -11,7 +11,7 @@
 - [国密算法](https://github.com/winterpi/blog/issues/4)
 - [签名与验签：盲签名、群签名、环签名](https://github.com/winterpi/blog/issues/6)
 - [Pedersen Commitment (佩德森承诺)](https://github.com/winterpi/blog/issues/7)
-- [基于Paillier的加法同态](https://github.com/winterpi/blog/issues/5)
+- [基于 Paillier 的加法同态](https://github.com/winterpi/blog/issues/5)
 - [可信计算平台的远程证明 RA](https://github.com/winterpi/blog/issues/8)
 
 ## 参与翻译的 Hyperledger 文章
