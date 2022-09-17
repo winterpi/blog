@@ -15,7 +15,7 @@
 - [可信计算平台的远程证明 RA](https://github.com/winterpi/blog/issues/8)
 - [HDFS vs IPFS](https://github.com/winterpi/blog/issues/9)
 - [Ethereum MPT 简介](https://github.com/winterpi/blog/issues/10)
-- [NFT VS 数字藏品 VS 数字版权](https://github.com/winterpi/blog/issues/12)
+- [NFT vs 数字藏品 vs 数字版权](https://github.com/winterpi/blog/issues/12)
 - [区块链 + 汽车行业新趋势](https://github.com/winterpi/blog/issues/14)
 
 ## 参与翻译的 Hyperledger 文章
