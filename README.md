@@ -4,7 +4,7 @@
 [简书专栏](https://www.jianshu.com/u/e9bee1674dac)
 - 之前在简书上记录文章，但连续几次被锁定，所以还是选择给博客搬家了
 
-## 现在的文章
+## 技术解读系列
 - [何为稳定币](https://github.com/winterpi/blog/issues/1)
 - [Hyperledger Fabric 智能合约开发利器](https://github.com/winterpi/blog/issues/2)
 - [ERC-20, ERC-721 及 ERC-1155](https://github.com/winterpi/blog/issues/3)
@@ -20,6 +20,9 @@
 - [数学概念：平均值、期望值、方差、标准差](https://github.com/winterpi/blog/issues/15)
 - [跨链技术解析](https://github.com/winterpi/blog/issues/16)
 - [VRF 可验证随机数](https://github.com/winterpi/blog/issues/19)
+
+## 社会科技解读系列
+- [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
 - [Hyperledger Firefly 1.0 介绍：企业级Web3 应用的超级节点](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487060&idx=2&sn=4ae81242358c8b415bc6912ef8be770c&chksm=ce233009f954b91ffc4fbde650a797bcfc19b0a1de7dbeaf4f42208650f39b1b39623e548ef4&token=997924595&lang=zh_CN#rd)
