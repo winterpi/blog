@@ -34,5 +34,7 @@
 - [Hyperledger Identity 综述：使用 Hyperledger 相关技术构建的数字身份产品解决方案的剖析](https://mp.weixin.qq.com/s/tuk8HwcYfOZOazryq0H3Vg)
 - [Hyperledger Cacti 项目介绍，一个多元的可插拔的互操作性框架](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247488063&idx=1&sn=fc01c4d2e5018cc97a827565e3a9cb4b&chksm=ce232c62f954a5747cc0fd105bc0b0bac8795ab55c36bd17ec763b84613144a367d536684844&scene=126&&sessionid=1669702816#rd)
 <!-- [案例分析：用Splunk关联所有数据集的数据，包括Hyperledger Fabric](https://docs.qq.com/doc/DZGxUdHFJWkV0dE1Y)-->
+- [跟着免费在线培训课程，学习自我主权身份的基础知识](https://mp.weixin.qq.com/s/p8eIs3wQJsDployjR5Yp3A)
+- [LACChain向拉丁美洲推出基于Hyperledger Besu的许可公链生态系统](https://mp.weixin.qq.com/s/O6mmWKQ1d-dFJEdYqZ2UYw)
 - [The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness 中文版](https://github.com/lfapac-open-source-evangelist/translation/blob/main/completed/LFResearch_SBOM_Report_CN_Chinese_112522.pdf)
 - [Technical Debt and Open Source Development 中文版](https://training.linuxfoundation.cn/downloads/596aaa96562f6c545899b26bf3f63d86)
