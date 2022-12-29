@@ -20,6 +20,7 @@
 - [数学概念：平均值、期望值、方差、标准差](https://github.com/winterpi/blog/issues/15)
 - [跨链技术解析](https://github.com/winterpi/blog/issues/16)
 - [VRF 可验证随机数](https://github.com/winterpi/blog/issues/19)
+- [签名算法：RSA, DSA, ECDSA, EdDSA](https://github.com/winterpi/blog/issues/22)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
