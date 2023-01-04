@@ -21,6 +21,7 @@
 - [跨链技术解析](https://github.com/winterpi/blog/issues/16)
 - [VRF 可验证随机数](https://github.com/winterpi/blog/issues/19)
 - [签名算法：RSA, DSA, ECDSA, EdDSA](https://github.com/winterpi/blog/issues/22)
+- [论文阅读《niDts: A New Generation Intelligent Data Trading System》](https://github.com/winterpi/blog/issues/23)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
