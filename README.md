@@ -22,6 +22,7 @@
 - [VRF 可验证随机数](https://github.com/winterpi/blog/issues/19)
 - [签名算法：RSA, DSA, ECDSA, EdDSA](https://github.com/winterpi/blog/issues/22)
 - [论文阅读《niDts: A New Generation Intelligent Data Trading System》](https://github.com/winterpi/blog/issues/23)
+- [“隐私计算”的范畴及应用](https://github.com/winterpi/blog/issues/24)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
