@@ -28,6 +28,9 @@
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
 
+## 个人随笔
+
+
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
 - [Hyperledger Firefly 1.0 介绍：企业级Web3 应用的超级节点](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487060&idx=2&sn=4ae81242358c8b415bc6912ef8be770c&chksm=ce233009f954b91ffc4fbde650a797bcfc19b0a1de7dbeaf4f42208650f39b1b39623e548ef4&token=997924595&lang=zh_CN#rd)
 - [博世与 PolyCrypt 合作，利用开源模型解决物联网区块链问题](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487071&idx=3&sn=6dd9ca27ab02fe59c19d786d49c9336e&chksm=ce233002f954b9143a0880365a625923e0cd1f33174dfb587c2a6c681e02d5e94f4a7f52f488&token=423991220&lang=zh_CN#rd)
