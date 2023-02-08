@@ -24,6 +24,7 @@
 - [论文阅读《niDts: A New Generation Intelligent Data Trading System》](https://github.com/winterpi/blog/issues/23)
 - [“隐私计算”的范畴及应用](https://github.com/winterpi/blog/issues/24)
 - [P与NP问题的简单理解](https://github.com/winterpi/blog/issues/25)
+- [测信道攻击](https://github.com/winterpi/blog/issues/27)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
