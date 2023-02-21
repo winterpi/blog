@@ -12,6 +12,7 @@
 - [签名与验签：盲签名、群签名、环签名](https://github.com/winterpi/blog/issues/6)
 - [Pedersen Commitment (佩德森承诺)](https://github.com/winterpi/blog/issues/7)
 - [基于 Paillier 的加法同态](https://github.com/winterpi/blog/issues/5)
+- [基于 ElGamal 的乘法同态及加法同态的变异](https://github.com/winterpi/blog/issues/30)
 - [可信计算平台的远程证明 RA](https://github.com/winterpi/blog/issues/8)
 - [HDFS vs IPFS](https://github.com/winterpi/blog/issues/9)
 - [Ethereum MPT 简介](https://github.com/winterpi/blog/issues/10)
