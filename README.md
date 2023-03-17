@@ -32,6 +32,7 @@
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
+- [虚拟现实(元宇宙)的行业发展机会](https://github.com/winterpi/blog/issues/34)
 
 ## 个人随笔
 - [自卑又敏感的孩子 -- 我的大儿](https://github.com/winterpi/blog/issues/26)
