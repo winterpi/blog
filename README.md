@@ -39,6 +39,7 @@
 - [自卑又敏感的孩子 -- 我的大儿](https://github.com/winterpi/blog/issues/26)
 - [浅析下学霸的工作模式](https://github.com/winterpi/blog/issues/29)
 - [如何经营一家公司，做到持续发展](https://github.com/winterpi/blog/issues/33)
+- [学会用数学思维分析商业模式](https://github.com/winterpi/blog/issues/36)
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
 - [Hyperledger Firefly 1.0 介绍：企业级Web3 应用的超级节点](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487060&idx=2&sn=4ae81242358c8b415bc6912ef8be770c&chksm=ce233009f954b91ffc4fbde650a797bcfc19b0a1de7dbeaf4f42208650f39b1b39623e548ef4&token=997924595&lang=zh_CN#rd)
