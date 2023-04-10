@@ -29,6 +29,7 @@
 - [Shamir 密钥分享算法](https://github.com/winterpi/blog/issues/28)
 - [隐私求交的技术衍化](https://github.com/winterpi/blog/issues/31)
 - [元宇宙的赛道扩充(2)](https://github.com/winterpi/blog/issues/32)
+- [群、环、域](https://github.com/winterpi/blog/issues/37)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
