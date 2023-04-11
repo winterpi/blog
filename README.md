@@ -30,6 +30,7 @@
 - [隐私求交的技术衍化](https://github.com/winterpi/blog/issues/31)
 - [元宇宙的赛道扩充(2)](https://github.com/winterpi/blog/issues/32)
 - [群、环、域](https://github.com/winterpi/blog/issues/37)
+- [sigma 协议及应用](https://github.com/winterpi/blog/issues/38)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
