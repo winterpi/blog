@@ -32,6 +32,7 @@
 - [群、环、域](https://github.com/winterpi/blog/issues/37)
 - [sigma 协议及应用](https://github.com/winterpi/blog/issues/38)
 - [百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
+- [Docker 的使用整理](https://github.com/winterpi/blog/issues/40)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
