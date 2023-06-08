@@ -27,7 +27,7 @@
 - [P与NP问题的简单理解](https://github.com/winterpi/blog/issues/25)
 - [测信道攻击](https://github.com/winterpi/blog/issues/27)
 - [Shamir 密钥分享算法](https://github.com/winterpi/blog/issues/28)
-- [隐私求交的技术衍化](https://github.com/winterpi/blog/issues/31)
+- [隐私求交 PSI 的技术衍化](https://github.com/winterpi/blog/issues/31)
 - [元宇宙的赛道扩充(2)](https://github.com/winterpi/blog/issues/32)
 - [群、环、域](https://github.com/winterpi/blog/issues/37)
 - [sigma 协议及应用](https://github.com/winterpi/blog/issues/38)
