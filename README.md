@@ -34,6 +34,7 @@
 - [百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
 - [百度PaddleOCR的使用案例--验证码图片的识别](https://github.com/winterpi/blog/issues/41)
 - [Docker 的使用整理](https://github.com/winterpi/blog/issues/40)
+- [转载-不经意传输协议 OT ](https://www.cnblogs.com/pam-sh/p/16988760.html)
 
 
 ## 社会科技解读系列
