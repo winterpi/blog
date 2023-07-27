@@ -36,6 +36,7 @@
 - [Docker 的使用整理](https://github.com/winterpi/blog/issues/40)
 - [安全多方计算1--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
 - [安全多方计算2--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
+- [BTC 挖矿流程解析](https://github.com/winterpi/blog/issues/46)
 
 
 ## 社会科技解读系列
