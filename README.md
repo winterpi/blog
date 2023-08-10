@@ -37,6 +37,7 @@
 - [安全多方计算1--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
 - [安全多方计算2--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
 - [BTC 挖矿流程解析](https://github.com/winterpi/blog/issues/46)
+- [点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
 
 
 ## 社会科技解读系列
