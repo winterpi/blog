@@ -38,6 +38,7 @@
 - [安全多方计算2--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
 - [BTC 挖矿流程解析](https://github.com/winterpi/blog/issues/46)
 - [点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
+- [基于区块链的新电商模式](https://github.com/winterpi/blog/issues/48)
 
 
 ## 社会科技解读系列
