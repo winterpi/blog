@@ -40,6 +40,7 @@
 - [点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
 - [基于区块链的新电商模式](https://github.com/winterpi/blog/issues/48)
 - [安全多方计算3--应用场景](https://github.com/winterpi/blog/issues/51)
+- [安全多方计算4--求平均薪资](https://github.com/winterpi/blog/issues/52)
 
 
 ## 社会科技解读系列
