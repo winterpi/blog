@@ -39,6 +39,7 @@
 - [基于区块链的新电商模式](https://github.com/winterpi/blog/issues/48)
 - [安全多方计算1--应用场景](https://github.com/winterpi/blog/issues/51)
 - [安全多方计算2--求平均薪资协议](https://github.com/winterpi/blog/issues/52)
+- [安全多方计算3--百万富翁比较的协议](https://github.com/winterpi/blog/issues/53)
 - [安全多方计算3--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
 - [安全多方计算4--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
 
