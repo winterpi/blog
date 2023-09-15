@@ -34,13 +34,13 @@
 - [百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
 - [百度PaddleOCR的使用案例--验证码图片的识别](https://github.com/winterpi/blog/issues/41)
 - [Docker 的使用整理](https://github.com/winterpi/blog/issues/40)
-- [安全多方计算1--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
-- [安全多方计算2--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
 - [BTC 挖矿流程解析](https://github.com/winterpi/blog/issues/46)
 - [点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
 - [基于区块链的新电商模式](https://github.com/winterpi/blog/issues/48)
-- [安全多方计算3--应用场景](https://github.com/winterpi/blog/issues/51)
-- [安全多方计算4--求平均薪资](https://github.com/winterpi/blog/issues/52)
+- [安全多方计算1--应用场景](https://github.com/winterpi/blog/issues/51)
+- [安全多方计算2--求平均薪资协议](https://github.com/winterpi/blog/issues/52)
+- [安全多方计算3--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
+- [安全多方计算4--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
 
 
 ## 社会科技解读系列
