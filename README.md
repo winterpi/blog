@@ -43,7 +43,7 @@
 - [安全多方计算4--混淆电路解决百万富翁(转载)](https://www.cnblogs.com/pam-sh/p/16993628.html)
 - [安全多方计算5--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
 - [安全多方计算6--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
-- [安全多方计算7 -- 隐私求交 PSI 的实现协议](https://github.com/winterpi/blog/issues/54)
+- [安全多方计算7--隐私求交 PSI 的实现协议](https://github.com/winterpi/blog/issues/54)
 
 
 
