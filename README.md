@@ -54,6 +54,7 @@
 - [虚拟现实(元宇宙)的行业发展机会](https://github.com/winterpi/blog/issues/34)
 - [科学演变的几大范式](https://github.com/winterpi/blog/issues/35)
 - [从智慧海洋业拓展到能源行业](https://github.com/winterpi/blog/issues/50)
+- [”飞行汽车“开拓新的商业模式](https://github.com/winterpi/blog/issues/59)
 
 ## 个人随笔
 - [自卑又敏感的孩子 -- 我的大儿](https://github.com/winterpi/blog/issues/26)
