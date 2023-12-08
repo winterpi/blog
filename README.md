@@ -47,7 +47,7 @@
 - [大模型粘合剂 Langchain 初识](https://github.com/winterpi/blog/issues/56)
 - [Langchain Retrieval 外接知识库的理解](https://github.com/winterpi/blog/issues/57)
 - [对 Langchain-chatchat 的理解](https://github.com/winterpi/blog/issues/58)
-
+- [采用编程的方式处理 pdf 文件](https://github.com/winterpi/blog/issues/60)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
