@@ -49,6 +49,7 @@
 - [对 Langchain-chatchat 的理解](https://github.com/winterpi/blog/issues/58)
 - [采用编程的方式处理 pdf 文件](https://github.com/winterpi/blog/issues/60)
 - [LLM 与 Knowledge Graph 的融合](https://github.com/winterpi/blog/issues/61)
+- [提升大模型外挂知识库RAG的几种方法](https://github.com/winterpi/blog/issues/62)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
