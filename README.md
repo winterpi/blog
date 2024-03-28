@@ -51,7 +51,9 @@
 - [LLM相关4--LLM 与 Knowledge Graph 的融合](https://github.com/winterpi/blog/issues/61)
 - [LLM相关5--提升大模型外挂知识库RAG的几种方法](https://github.com/winterpi/blog/issues/62)
 - [“隐私计算”系列3--隐私计算的落地应用扩充](https://github.com/winterpi/blog/issues/64)
-- [去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
+- [数字身份DID(1)--- 去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
+- [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
+- [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
