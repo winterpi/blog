@@ -50,6 +50,7 @@
 - [采用编程的方式处理 pdf 文件](https://github.com/winterpi/blog/issues/60)
 - [LLM相关4--LLM 与 Knowledge Graph 的融合](https://github.com/winterpi/blog/issues/61)
 - [LLM相关5--提升大模型外挂知识库RAG的几种方法](https://github.com/winterpi/blog/issues/62)
+- [LLM相关6--embedding VS reranker](https://github.com/winterpi/blog/issues/71)
 - [“隐私计算”系列3--隐私计算的落地应用扩充](https://github.com/winterpi/blog/issues/64)
 - [数字身份DID(1)--去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
