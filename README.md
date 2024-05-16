@@ -44,6 +44,7 @@
 - [安全多方计算5--不经意传输协议OT(转载)](https://www.cnblogs.com/pam-sh/p/16988760.html)
 - [安全多方计算6--隐私信息检索 PIR 方案汇总(转载)](https://www.cnblogs.com/pam-sh/p/16989622.html)
 - [安全多方计算7--隐私求交 PSI 的实现协议](https://github.com/winterpi/blog/issues/54)
+- [安全多方计算8--安全沙箱](https://github.com/winterpi/blog/issues/76)
 - [LLM相关1--大模型粘合剂 Langchain 初识](https://github.com/winterpi/blog/issues/56)
 - [LLM相关2--Langchain Retrieval 外接知识库的理解](https://github.com/winterpi/blog/issues/57)
 - [LLM相关3--对 Langchain-chatchat 的理解](https://github.com/winterpi/blog/issues/58)
