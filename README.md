@@ -82,7 +82,7 @@
 - [对“信息熵”的理解](https://github.com/winterpi/blog/issues/68)
 - [多巴胺、内啡肽、血清---几种人类快乐的源泉](https://github.com/winterpi/blog/issues/69)
 - [灵魂拷问：你最喜欢什么？](https://github.com/winterpi/blog/issues/77)
-- [向身边的人学习--从做事、沟通的角度考虑](https://github.com/winterpi/blog/issues/79)
+- [向身边的人学习--从做项目、沟通的角度考虑](https://github.com/winterpi/blog/issues/79)
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
 - [Hyperledger Firefly 1.0 介绍：企业级Web3 应用的超级节点](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487060&idx=2&sn=4ae81242358c8b415bc6912ef8be770c&chksm=ce233009f954b91ffc4fbde650a797bcfc19b0a1de7dbeaf4f42208650f39b1b39623e548ef4&token=997924595&lang=zh_CN#rd)
