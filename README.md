@@ -58,6 +58,7 @@
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
 - [数据流通的几种形式](https://github.com/winterpi/blog/issues/78)
+- [ZKP 与 区块链的关系](https://github.com/winterpi/blog/issues/80)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
