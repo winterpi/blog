@@ -91,6 +91,7 @@
 - [海外城市旅游之所见--槟城](https://github.com/winterpi/blog/issues/85)
 - [懂得让步，是进步的表现](https://github.com/winterpi/blog/issues/86)
 - [一场面试引发的思考](https://github.com/winterpi/blog/issues/87)
+- [不要盲目自信，要找到方法](https://github.com/winterpi/blog/issues/89)
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
 - [Hyperledger Firefly 1.0 介绍：企业级Web3 应用的超级节点](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTM0Ng==&mid=2247487060&idx=2&sn=4ae81242358c8b415bc6912ef8be770c&chksm=ce233009f954b91ffc4fbde650a797bcfc19b0a1de7dbeaf4f42208650f39b1b39623e548ef4&token=997924595&lang=zh_CN#rd)
