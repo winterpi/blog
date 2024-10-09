@@ -59,7 +59,7 @@
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
 - [数据流通的几种形式](https://github.com/winterpi/blog/issues/78)
 - [区块链与零知识证明的关系](https://github.com/winterpi/blog/issues/80)
-- [LLM相关8-聊天机器人的实现方式调研](https://github.com/winterpi/blog/issues/88)
+- [LLM相关8--聊天机器人的实现方式调研](https://github.com/winterpi/blog/issues/88)
 - [距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 
 ## 社会科技解读系列
