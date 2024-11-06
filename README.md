@@ -63,6 +63,7 @@
 - [LLM相关9--什么是端到端的大模型](https://github.com/winterpi/blog/issues/95)
 - [LLM相关10--什么是 In-context learning?](https://github.com/winterpi/blog/issues/96)
 - [距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
+- [LLM相关11--专业名词解释](https://github.com/winterpi/blog/issues/98)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
