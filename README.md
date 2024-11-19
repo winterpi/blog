@@ -65,6 +65,7 @@
 - [区块链与零知识证明的关系](https://github.com/winterpi/blog/issues/80)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
+- [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
