@@ -57,6 +57,7 @@
 - [LLM相关9--什么是端到端的大模型](https://github.com/winterpi/blog/issues/95)
 - [LLM相关10--什么是 In-context learning?](https://github.com/winterpi/blog/issues/96)
 - [LLM相关11--专业名词解释](https://github.com/winterpi/blog/issues/98)
+- [LLM相关12--Text2SQL的方法调研](https://github.com/winterpi/blog/issues/101)
 - [数字身份DID(1)--去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
@@ -66,6 +67,8 @@
 - [深度学习4--百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
 - [深度学习5--百度PaddleOCR的使用案例--验证码图片的识别](https://github.com/winterpi/blog/issues/41)
 - [深度学习6--点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
+
+  
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
 - [虚拟现实(元宇宙)的行业发展机会](https://github.com/winterpi/blog/issues/34)
