@@ -59,6 +59,7 @@
 - [LLM相关11--专业名词解释](https://github.com/winterpi/blog/issues/98)
 - [LLM相关12--Text2SQL的方法调研](https://github.com/winterpi/blog/issues/101)
 - [LLM相关13--学习下OpenAI 的 AI 路径规划](https://github.com/winterpi/blog/issues/102)
+- [LLM相关14--大模型训练的一些注意细节](https://github.com/winterpi/blog/issues/103)
 - [数字身份DID(1)--去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
