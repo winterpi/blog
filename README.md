@@ -61,7 +61,7 @@
 - [LLM相关13--学习下OpenAI 的 AI 路径规划](https://github.com/winterpi/blog/issues/102)
 - [LLM相关14--大模型训练的一些注意细节](https://github.com/winterpi/blog/issues/103)
 - [LLM相关15--基于LLaMA-Factory的大模型训练](https://github.com/winterpi/blog/issues/104)
-- [LLM相关15--基于LLaMA-Factory的大模型评估](https://github.com/winterpi/blog/issues/105)
+- [LLM相关16--基于LLaMA-Factory的大模型评估](https://github.com/winterpi/blog/issues/105)
 - [数字身份DID(1)--去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
