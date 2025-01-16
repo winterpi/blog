@@ -63,6 +63,7 @@
 - [LLM相关15--基于LLaMA-Factory的大模型训练](https://github.com/winterpi/blog/issues/104)
 - [LLM相关16--基于LLaMA-Factory的大模型评估](https://github.com/winterpi/blog/issues/105)
 - [LLM相关17--训练大模型的参数设置：batch size, epoch, learning rate](https://github.com/winterpi/blog/issues/108)
+- [LLM相关18--百度千帆的参数设置经验](https://github.com/winterpi/blog/issues/109)
 - [数字身份DID(1)--去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
