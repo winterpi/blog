@@ -67,6 +67,7 @@
 - [LLM相关16--基于LLaMA-Factory的大模型评估](https://github.com/winterpi/blog/issues/105)
 - [LLM相关17--训练大模型的参数设置：batch size, epoch, learning rate](https://github.com/winterpi/blog/issues/108)
 - [LLM相关18--百度千帆的参数设置经验](https://github.com/winterpi/blog/issues/109)
+- [LLM相关19--调研几个视觉大模型](https://github.com/winterpi/blog/issues/110)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
