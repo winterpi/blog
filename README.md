@@ -112,7 +112,7 @@
 - [一场面试引发的思考](https://github.com/winterpi/blog/issues/87)
 - [不要盲目自信，要找到方法](https://github.com/winterpi/blog/issues/89)
 - [透过现象看本质--如何分析一个项目是否可行](https://github.com/winterpi/blog/issues/106)
-- [遇到问题，勇敢往前走一步](https://github.com/winterpi/blog/issues/114)
+- [遇到问题，勇敢向前一步](https://github.com/winterpi/blog/issues/114)
 - [商业可学习：2B企业的市场打法](https://github.com/winterpi/blog/issues/116)
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
