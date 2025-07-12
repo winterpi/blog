@@ -108,6 +108,7 @@
 - [海外城市旅游之所见--新加坡](https://github.com/winterpi/blog/issues/83)
 - [海外城市旅游之所见--吉隆坡](https://github.com/winterpi/blog/issues/84)
 - [海外城市旅游之所见--槟城](https://github.com/winterpi/blog/issues/85)
+- [国内西北城市第一次亲密接触](https://github.com/winterpi/blog/issues/119)
 - [懂得让步，是进步的表现](https://github.com/winterpi/blog/issues/86)
 - [一场面试引发的思考](https://github.com/winterpi/blog/issues/87)
 - [不要盲目自信，要找到方法](https://github.com/winterpi/blog/issues/89)
