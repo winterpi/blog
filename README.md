@@ -72,6 +72,7 @@
 - [LLM相关21--DeepSeek-V3的技术解读](https://github.com/winterpi/blog/issues/113)
 - [LLM相关22--国产GPU初探](https://github.com/winterpi/blog/issues/111)
 - [LLM相关23--大模型量化初探](https://github.com/winterpi/blog/issues/115)
+- [LLM相关24--基于强化学习的大模型微调项目ART](https://github.com/winterpi/blog/issues/120)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
