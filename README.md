@@ -76,6 +76,7 @@
 - [LLM相关25--基座模型 VS 指令模型](https://github.com/winterpi/blog/issues/125)
 - [LLM相关26--编码模型 VS 解码模型](https://github.com/winterpi/blog/issues/126)
 - [LLM相关27--语义检索 VS 关键词检索](https://github.com/winterpi/blog/issues/128)
+- [LLM相关28--注意力机制 VS 自注意力机制](https://github.com/winterpi/blog/issues/129)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
