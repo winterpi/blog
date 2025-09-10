@@ -17,7 +17,7 @@
 - [区块链相关10--元宇宙的赛道扩充(2)](https://github.com/winterpi/blog/issues/32)
 - [区块链相关11--BTC 挖矿流程解析](https://github.com/winterpi/blog/issues/46)
 - [区块链相关12--基于区块链的新电商模式](https://github.com/winterpi/blog/issues/48)
-- [区块链相关13--区块链与零知识证明的关系](https://github.com/winterpi/blog/issues/80)
+- [区块链相关13--区块链与零知识证明的关系](https://github.com/winterpi/blog/issues/80)  
 - [数字身份DID(1)--去中心化DID身份认证的技术解析](https://github.com/winterpi/blog/issues/73)
 - [数字身份DID(2)--去中心化DID身份认证的应用解析](https://github.com/winterpi/blog/issues/74)
 - [数字身份DID(3)--去中心化数字身份DID的实现](https://github.com/winterpi/blog/issues/67)
@@ -84,6 +84,7 @@
 - [深度学习4--百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
 - [深度学习5--百度PaddleOCR的使用案例--验证码图片的识别](https://github.com/winterpi/blog/issues/41)
 - [深度学习6--点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
+- [论文阅读：让AI拥有“记忆”：多模态智能体 M 3-Agent 的技术解读](https://github.com/winterpi/blog/issues/133)
 
   
 ## 社会科技解读系列
