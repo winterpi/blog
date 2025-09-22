@@ -78,6 +78,7 @@
 - [LLM相关27--语义检索 VS 关键词检索](https://github.com/winterpi/blog/issues/128)
 - [LLM相关28--注意力机制 VS 自注意力机制](https://github.com/winterpi/blog/issues/127)
 - [LLM相关29--大模型偏好调优：PPO VS DPO ](https://github.com/winterpi/blog/issues/129)
+- [LLM相关30--Transformer 的架构](https://github.com/winterpi/blog/issues/130)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
