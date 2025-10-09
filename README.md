@@ -105,6 +105,7 @@
 - [来自一场GTO鲲鹏会的经验总结](https://github.com/winterpi/blog/issues/44)
 - [分析问题的角度--从公司的一场小事说起](https://github.com/winterpi/blog/issues/45)
 - [老妈抗癌记录](https://github.com/winterpi/blog/issues/55)
+- [从老妈身上学到什么](https://github.com/winterpi/blog/issues/135)
 - [学会整合资源--从公司实际落实的一个项目分析](https://github.com/winterpi/blog/issues/55)
 - [从打牌娱乐中透视社会现象(1)](https://github.com/winterpi/blog/issues/65)
 - [从坐车的模式分析社会现象(2)](https://github.com/winterpi/blog/issues/124)
