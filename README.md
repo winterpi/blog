@@ -79,13 +79,15 @@
 - [LLM相关28--注意力机制 VS 自注意力机制](https://github.com/winterpi/blog/issues/127)
 - [LLM相关29--大模型偏好调优：PPO VS DPO ](https://github.com/winterpi/blog/issues/129)
 - [LLM相关30--Transformer 的架构](https://github.com/winterpi/blog/issues/130)
+- [LLM相关31-论文阅读：让AI拥有“记忆”：多模态智能体M3-Agent 的技术解读](https://github.com/winterpi/blog/issues/133)
+- [LLM相关32-论文阅读:Computer-use Agent-S 系列](https://github.com/winterpi/blog/issues/138)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
 - [深度学习4--百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
 - [深度学习5--百度PaddleOCR的使用案例--验证码图片的识别](https://github.com/winterpi/blog/issues/41)
 - [深度学习6--点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
-- [论文阅读：让AI拥有“记忆”：多模态智能体 M 3-Agent 的技术解读](https://github.com/winterpi/blog/issues/133)
+
 - [工业学术论文写作技巧](https://github.com/winterpi/blog/issues/136)
 - [快手工具--阅读英文书籍](https://github.com/winterpi/blog/issues/134)
 
