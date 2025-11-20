@@ -87,7 +87,6 @@
 - [深度学习4--百度 PaddlePaddle 的简单部署经验总结](https://github.com/winterpi/blog/issues/39)
 - [深度学习5--百度PaddleOCR的使用案例--验证码图片的识别](https://github.com/winterpi/blog/issues/41)
 - [深度学习6--点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
-
 - [工业学术论文写作技巧](https://github.com/winterpi/blog/issues/136)
 - [快手工具--阅读英文书籍](https://github.com/winterpi/blog/issues/134)
 
