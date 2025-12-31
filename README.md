@@ -134,6 +134,7 @@
 - [人的见识有多重要](https://github.com/winterpi/blog/issues/132)
 - [万事开头难](https://github.com/winterpi/blog/issues/131)
 - [如何做生意，融洽是第一步](https://github.com/winterpi/blog/issues/140)
+- [妈妈们的哪些性格特点，我们得摈弃掉](https://github.com/winterpi/blog/issues/141)
 
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
