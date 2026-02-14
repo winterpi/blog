@@ -137,6 +137,7 @@
 - [如何做生意，融洽是第一步](https://github.com/winterpi/blog/issues/140)
 - [妈妈们的哪些性格特点，我们得摈弃掉](https://github.com/winterpi/blog/issues/141)
 - [如何共情青春期孩子](https://github.com/winterpi/blog/issues/142)
+- [教育的最终目的是什么](https://github.com/winterpi/blog/issues/145)
 
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
