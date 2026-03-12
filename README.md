@@ -106,6 +106,7 @@
 ## 个人随笔
 - [自卑又敏感的孩子 -- 我的大儿](https://github.com/winterpi/blog/issues/26)
 - [调皮捣蛋的娃娃 -- 我的小儿](https://github.com/winterpi/blog/issues/43)
+- [娃们给我不一样的女神节](https://github.com/winterpi/blog/issues/151)
 - [浅析下学霸的工作模式](https://github.com/winterpi/blog/issues/29)
 - [如何经营一家公司，做到持续发展](https://github.com/winterpi/blog/issues/33)
 - [学会用数学思维分析商业模式](https://github.com/winterpi/blog/issues/36)
