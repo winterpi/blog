@@ -143,6 +143,7 @@
 - [如何共情青春期孩子](https://github.com/winterpi/blog/issues/142)
 - [教育的最终目的是什么](https://github.com/winterpi/blog/issues/145)
 - [2026年春节自驾江西：山海疗愈与城市参差](https://github.com/winterpi/blog/issues/146)
+- [从投资角度看AI眼镜的研发](https://github.com/winterpi/blog/issues/152)
 
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
