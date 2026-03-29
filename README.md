@@ -94,7 +94,7 @@
 - [深度学习6--点选验证码的识别方式](https://github.com/winterpi/blog/issues/47)
 - [工业学术论文写作技巧](https://github.com/winterpi/blog/issues/136)
 - [快手工具--阅读英文书籍](https://github.com/winterpi/blog/issues/134)
-
+- [工程技术1--层级分类方法讨论](https://github.com/winterpi/blog/issues/154)
   
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
