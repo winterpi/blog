@@ -86,6 +86,7 @@
 - [LLM相关35--大模型的Memory管理与工程实践](https://github.com/winterpi/blog/issues/148)
 - [LLM相关36--大模型的基本技术测试题](https://github.com/winterpi/blog/issues/150)
 - [LLM相关37--OpenClaw小龙虾VS RPA](https://github.com/winterpi/blog/issues/149)
+- [LLM相关38--Prompt->Context->Harness Engineering演进](https://github.com/winterpi/blog/issues/155)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
