@@ -145,7 +145,7 @@
 - [教育的最终目的是什么](https://github.com/winterpi/blog/issues/145)
 - [2026年春节自驾江西：山海疗愈与城市参差](https://github.com/winterpi/blog/issues/146)
 - [从投资角度看AI眼镜的研发](https://github.com/winterpi/blog/issues/152)
-- [技术的研究体系浅析](https://github.com/winterpi/blog/issues/153)
+- [技术的研究体系浅析--科学体系与方法论](https://github.com/winterpi/blog/issues/153)
 - [如何积攒人生复利](https://github.com/winterpi/blog/issues/156)
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
