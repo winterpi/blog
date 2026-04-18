@@ -125,6 +125,7 @@
 - [生活琐事系列16--如何共情青春期孩子](https://github.com/winterpi/blog/issues/142)
 - [生活琐事系列17--教育的最终目的是什么](https://github.com/winterpi/blog/issues/145)
 - [生活琐事系列18--2026年春节自驾江西：山海疗愈与城市参差](https://github.com/winterpi/blog/issues/146)
+- [生活琐事系列19--从一件家庭小事，反思工作中的配合问题](https://github.com/winterpi/blog/issues/157)
 - [职场琐事分析1--浅析下学霸的工作模式](https://github.com/winterpi/blog/issues/29)
 - [职场琐事分析2--如何经营一家公司，做到持续发展](https://github.com/winterpi/blog/issues/33)
 - [职场琐事分析3--学会用数学思维分析商业模式](https://github.com/winterpi/blog/issues/36)
