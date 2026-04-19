@@ -99,13 +99,6 @@
 - [工程技术5--阅读英文书籍的方法](https://github.com/winterpi/blog/issues/134)
 
   
-## 社会科技解读系列
-- [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
-- [虚拟现实(元宇宙)的行业发展机会](https://github.com/winterpi/blog/issues/34)
-- [科学演变的几大范式](https://github.com/winterpi/blog/issues/35)
-- [从智慧海洋业拓展到能源行业](https://github.com/winterpi/blog/issues/50)
-- [”飞行汽车“开拓新的商业模式](https://github.com/winterpi/blog/issues/59)
-
 ## 个人随笔
 - [生活琐事系列1--自卑又敏感的孩子(我的大儿)](https://github.com/winterpi/blog/issues/26)
 - [生活琐事系列2--调皮捣蛋的娃娃(我的小儿)](https://github.com/winterpi/blog/issues/43)
@@ -149,6 +142,15 @@
 - [如何积攒人生复利](https://github.com/winterpi/blog/issues/156)
 - [对“信息熵”的理解](https://github.com/winterpi/blog/issues/68)
 - [多巴胺、内啡肽、血清---几种人类快乐的源泉](https://github.com/winterpi/blog/issues/69)
+
+## 读书笔记
+
+## 社会科技解读系列
+- [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
+- [虚拟现实(元宇宙)的行业发展机会](https://github.com/winterpi/blog/issues/34)
+- [科学演变的几大范式](https://github.com/winterpi/blog/issues/35)
+- [从智慧海洋业拓展到能源行业](https://github.com/winterpi/blog/issues/50)
+- [”飞行汽车“开拓新的商业模式](https://github.com/winterpi/blog/issues/59)
 
 
 ## 参与翻译&校验的 Hyperledger 文章，书籍等
