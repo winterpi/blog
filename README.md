@@ -144,6 +144,7 @@
 - [多巴胺、内啡肽、血清---几种人类快乐的源泉](https://github.com/winterpi/blog/issues/69)
 
 ## 读书笔记
+- [《愿你眼明心亮》](https://github.com/winterpi/blog/issues/158)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
