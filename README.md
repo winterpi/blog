@@ -146,6 +146,7 @@
 
 ## 读书笔记
 - [《愿你眼明心亮》](https://github.com/winterpi/blog/issues/158)
+- [《被讨厌的勇气》](https://github.com/winterpi/blog/issues/161)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
