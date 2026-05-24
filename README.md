@@ -86,6 +86,7 @@
 - [LLM相关37--OpenClaw小龙虾VS RPA](https://github.com/winterpi/blog/issues/149)
 - [LLM相关38--Prompt->Context->Harness Engineering演进](https://github.com/winterpi/blog/issues/155)
 - [LLM相关39--构建AI项目的10个经验教训--来自RAG之父的分享](https://github.com/winterpi/blog/issues/117)
+- [LLM相关40--AI智能体（Agent）的发展演进历史](https://github.com/winterpi/blog/issues/161)
 - [深度学习1--距离和相似度的计算方式](https://github.com/winterpi/blog/issues/90)
 - [深度学习2--模型评估指标](https://github.com/winterpi/blog/issues/99)
 - [深度学习3--名词解释](https://github.com/winterpi/blog/issues/100)
