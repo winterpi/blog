@@ -142,6 +142,7 @@
 - [职场琐事分析19--人的见识有多重要](https://github.com/winterpi/blog/issues/132)
 - [职场琐事分析20--遇到问题，勇敢向前一步](https://github.com/winterpi/blog/issues/114)
 - [职场琐事分析21--从智能眼镜的三代演进，看我对合作的理解](https://github.com/winterpi/blog/issues/163)
+- [职场琐事分析22--演讲失误的教训总结](https://github.com/winterpi/blog/issues/166)
 - [如何积攒人生复利](https://github.com/winterpi/blog/issues/156)
 - [对“信息熵”的理解](https://github.com/winterpi/blog/issues/68)
 - [多巴胺、内啡肽、血清---几种人类快乐的源泉](https://github.com/winterpi/blog/issues/69)
