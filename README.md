@@ -46,6 +46,7 @@
 - [LLM相关39--构建AI项目的10个经验教训--来自RAG之父的分享](https://github.com/winterpi/blog/issues/117)
 - [LLM相关40--AI智能体（Agent）的发展演进历史](https://github.com/winterpi/blog/issues/162)
 - [LLM相关41--两种典型的Long-term Memory的实现及其应用场景](https://github.com/winterpi/blog/issues/167)
+- [LLM相关42--智能眼镜的手势识别方案梳理](https://github.com/winterpi/blog/issues/168)
 - [区块链相关1--何为稳定币](https://github.com/winterpi/blog/issues/1)
 - [区块链相关2--Hyperledger Fabric 智能合约开发利器](https://github.com/winterpi/blog/issues/2)
 - [区块链相关3--ERC-20, ERC-721 及 ERC-1155](https://github.com/winterpi/blog/issues/3)
