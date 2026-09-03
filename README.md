@@ -119,7 +119,7 @@
 - [生活琐事系列12--海外城市旅游之所见--吉隆坡](https://github.com/winterpi/blog/issues/84)
 - [生活琐事系列13--海外城市旅游之所见--槟城](https://github.com/winterpi/blog/issues/85)
 - [生活琐事系列14--国内西北城市第一次亲密接触](https://github.com/winterpi/blog/issues/119)
-- [生活琐事系列15--妈妈们的哪些性格特点，我们得摈弃掉](https://github.com/winterpi/blog/issues/141)
+- [生活琐事系列15--老人们的哪些性格特点，我们得摈弃掉](https://github.com/winterpi/blog/issues/141)
 - [生活琐事系列16--如何共情青春期孩子](https://github.com/winterpi/blog/issues/142)
 - [生活琐事系列17--教育的最终目的是什么](https://github.com/winterpi/blog/issues/145)
 - [生活琐事系列18--2026年春节自驾江西：山海疗愈与城市参差](https://github.com/winterpi/blog/issues/146)
