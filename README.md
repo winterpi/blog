@@ -159,6 +159,7 @@
 - [《被讨厌的勇气》](https://github.com/winterpi/blog/issues/161)
 - [《怎样做成大事》](https://github.com/winterpi/blog/issues/164)
 - [《学了中医才知道-小偏方治大病》](https://github.com/winterpi/blog/issues/165)
+- [《一个人的朝圣》读书笔记](https://github.com/winterpi/blog/issues/172)
 
 ## 社会科技解读系列
 - [工业制造业软件的转型机会](https://github.com/winterpi/blog/issues/21)
