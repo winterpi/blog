@@ -5,6 +5,7 @@
 - 之前在简书上记录文章，但连续几次被锁定，所以还是选择给博客搬家了
 
 ## 技术解读系列
+- [LLM论文阅读（持续更新）](https://github.com/winterpi/blog/issues/173)
 - [LLM相关1--大模型粘合剂 Langchain 初识](https://github.com/winterpi/blog/issues/56)
 - [LLM相关2--Langchain Retrieval 外接知识库的理解](https://github.com/winterpi/blog/issues/57)
 - [LLM相关3--对 Langchain-chatchat 的理解](https://github.com/winterpi/blog/issues/58)
