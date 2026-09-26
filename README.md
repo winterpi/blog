@@ -129,7 +129,7 @@
 - [生活琐事系列21--【避坑指南】记录一次海外订阅退款与反思](https://github.com/winterpi/blog/issues/169)
 - [生活琐事系列22--2026年暑假东北旅游：26年后重返哈尔滨](https://github.com/winterpi/blog/issues/171)
 - [生活琐事系列23--看病等同于做项目，都不喜欢接手二手项目](https://github.com/winterpi/blog/issues/174)
-- [生活琐事系列24--](https://github.com/winterpi/blog/issues/176)
+- [生活琐事系列24--从一家美容店，浅析下加盟店怎么赚钱](https://github.com/winterpi/blog/issues/176)
 - 
 - [职场琐事分析1--浅析下学霸的工作模式](https://github.com/winterpi/blog/issues/29)
 - [职场琐事分析2--如何经营一家公司，做到持续发展](https://github.com/winterpi/blog/issues/33)
