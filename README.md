@@ -155,6 +155,7 @@
 - [职场琐事分析21--从智能眼镜的三代演进，看我对合作的理解](https://github.com/winterpi/blog/issues/163)
 - [职场琐事分析22--演讲失误的教训总结](https://github.com/winterpi/blog/issues/166)
 - [职场琐事分析23--开会接待后的自我反省](https://github.com/winterpi/blog/issues/175)
+- [职场琐事分析24--智能眼镜创业公司的阶段性打法](https://github.com/winterpi/blog/issues/178)
 - [如何积攒人生复利](https://github.com/winterpi/blog/issues/156)
 - [对“信息熵”的理解](https://github.com/winterpi/blog/issues/68)
 - [多巴胺、内啡肽、血清---几种人类快乐的源泉](https://github.com/winterpi/blog/issues/69)
