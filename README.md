@@ -6,8 +6,8 @@
 
 ## 技术解读系列
 - [LLM论文阅读--Smart Glasses（持续更新）](https://github.com/winterpi/blog/issues/173)
-- [LLM论文阅读--桌面 Agent + RPA/workflow 生成（持续更新）](https://github.com/winterpi/blog/issues/182)
-- [LLM论文阅读--Tool Selection（持续更新）](https://github.com/winterpi/blog/issues/181)
+- [LLM论文阅读--Tool Selection（持续更新）](https://github.com/winterpi/blog/issues/182)
+- [LLM论文阅读--桌面 Agent + RPA/workflow 生成（持续更新）](https://github.com/winterpi/blog/issues/181)
 - [LLM相关1--大模型粘合剂 Langchain 初识](https://github.com/winterpi/blog/issues/56)
 - [LLM相关2--Langchain Retrieval 外接知识库的理解](https://github.com/winterpi/blog/issues/57)
 - [LLM相关3--对 Langchain-chatchat 的理解](https://github.com/winterpi/blog/issues/58)
